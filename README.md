@@ -24,3 +24,7 @@
 - port set **80**
 - ♦♦addition FILL Koyeb **Exposing your Service port** to **80**
 - and deploy
+
+## Credit
+- source repo - https://github.com/anasty17/mirror-leech-telegram-bot/tree/ptb
+- Thank to Anasty17
