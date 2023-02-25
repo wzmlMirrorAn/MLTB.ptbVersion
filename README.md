@@ -22,5 +22,5 @@
 - add env vars **BOT_TOKEN, OWNER_ID, BASE_URL, SERVER_PORT**
 - base url is koyeb app public url
 - port set **80**
-- **addition FILL Koyeb Exposing your Service port to 80**
+- ♦♦addition FILL Koyeb **Exposing your Service port** to **80**
 - and deploy
